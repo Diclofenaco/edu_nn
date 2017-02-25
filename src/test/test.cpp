@@ -2,6 +2,7 @@
 #include "../train_set_io.h"
 
 #include <vector>
+//dummy comment
 
 /*
 void test_infrastructure()
